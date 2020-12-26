@@ -1,0 +1,13 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\bin\Debug\netcoreapp3.1\Exercise_03.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\bin\Debug\netcoreapp3.1\Exercise_03.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\bin\Debug\netcoreapp3.1\Exercise_03.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\bin\Debug\netcoreapp3.1\Exercise_03.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\bin\Debug\netcoreapp3.1\Exercise_03.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\bin\Debug\netcoreapp3.1\Exercise_03.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\obj\Debug\netcoreapp3.1\Exercise_03.csprojAssemblyReference.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\obj\Debug\netcoreapp3.1\Exercise_03.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\obj\Debug\netcoreapp3.1\Exercise_03.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\obj\Debug\netcoreapp3.1\Exercise_03.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\obj\Debug\netcoreapp3.1\Exercise_03.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\obj\Debug\netcoreapp3.1\Exercise_03.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Class03ExtraExercises\Class03ExtraExercises\Exercise_03\obj\Debug\netcoreapp3.1\Exercise_03.genruntimeconfig.cache

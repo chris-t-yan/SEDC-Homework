@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Homewrok_05_Excercise02/1.0.0": {
+        "runtime": {
+          "Homewrok_05_Excercise02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homewrok_05_Excercise02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

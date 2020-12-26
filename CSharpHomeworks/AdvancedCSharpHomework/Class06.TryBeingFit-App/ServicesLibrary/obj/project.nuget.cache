@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Utzd5HLjSyCs0v53SV9TDrJXPvLWskB/HcsEAtRftd1+Un/IE1264uhcjy3utv1edSMs1ivp4JKvkG3wsBIGMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dushk\\OneDrive\\Desktop\\C# projects\\TryBeingFit-App\\ServicesLibrary\\ServicesLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dushk\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

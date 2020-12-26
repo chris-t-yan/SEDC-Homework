@@ -1,0 +1,12 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_RealCalculatorApplication\obj\Debug\netcoreapp3.1\Homework_RealCalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_RealCalculatorApplication\obj\Debug\netcoreapp3.1\Homework_RealCalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_RealCalculatorApplication\obj\Debug\netcoreapp3.1\Homework_RealCalculatorApplication.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_RealCalculatorApplication\bin\Debug\netcoreapp3.1\Homework_RealCalculatorApplication.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_RealCalculatorApplication\bin\Debug\netcoreapp3.1\Homework_RealCalculatorApplication.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_RealCalculatorApplication\bin\Debug\netcoreapp3.1\Homework_RealCalculatorApplication.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_RealCalculatorApplication\bin\Debug\netcoreapp3.1\Homework_RealCalculatorApplication.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_RealCalculatorApplication\bin\Debug\netcoreapp3.1\Homework_RealCalculatorApplication.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_RealCalculatorApplication\bin\Debug\netcoreapp3.1\Homework_RealCalculatorApplication.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_RealCalculatorApplication\obj\Debug\netcoreapp3.1\Homework_RealCalculatorApplication.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_RealCalculatorApplication\obj\Debug\netcoreapp3.1\Homework_RealCalculatorApplication.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_RealCalculatorApplication\obj\Debug\netcoreapp3.1\Homework_RealCalculatorApplication.genruntimeconfig.cache

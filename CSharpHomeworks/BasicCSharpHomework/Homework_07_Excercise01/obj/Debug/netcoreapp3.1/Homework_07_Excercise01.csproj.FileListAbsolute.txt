@@ -1,0 +1,12 @@
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_07_Excercise01\obj\Debug\netcoreapp3.1\Homework_07_Excercise01.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_07_Excercise01\obj\Debug\netcoreapp3.1\Homework_07_Excercise01.AssemblyInfoInputs.cache
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_07_Excercise01\obj\Debug\netcoreapp3.1\Homework_07_Excercise01.AssemblyInfo.cs
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_07_Excercise01\bin\Debug\netcoreapp3.1\Homework_07_Excercise01.exe
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_07_Excercise01\bin\Debug\netcoreapp3.1\Homework_07_Excercise01.deps.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_07_Excercise01\bin\Debug\netcoreapp3.1\Homework_07_Excercise01.runtimeconfig.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_07_Excercise01\bin\Debug\netcoreapp3.1\Homework_07_Excercise01.runtimeconfig.dev.json
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_07_Excercise01\bin\Debug\netcoreapp3.1\Homework_07_Excercise01.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_07_Excercise01\bin\Debug\netcoreapp3.1\Homework_07_Excercise01.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_07_Excercise01\obj\Debug\netcoreapp3.1\Homework_07_Excercise01.dll
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_07_Excercise01\obj\Debug\netcoreapp3.1\Homework_07_Excercise01.pdb
+C:\Users\hrist\Desktop\SEDC 2019-2020\04_C# Basic\Domasni\Homework\BasicCSharpHomework\Homework_07_Excercise01\obj\Debug\netcoreapp3.1\Homework_07_Excercise01.genruntimeconfig.cache
